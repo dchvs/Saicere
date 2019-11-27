@@ -1,0 +1,4 @@
+[submodule "guizero"]
+	path = guizero
+	url = https://github.com/dchvs/guizero
+	branch = master
